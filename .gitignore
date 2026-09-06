@@ -8,3 +8,4 @@ main.py
 .cache
 .ipynb_checkpoints
 .vscode/
+.claude/
