@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//c/Users/Dell/Documents/**)",
-      "Read(//c/Users/Dell/OneDrive/Documentos/**)"
-    ]
-  }
-}
